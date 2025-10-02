@@ -5,7 +5,7 @@
 
 ### 🧕 About Me
 
-As a Comp Sci grad front-end developer, I take great pleasure in expanding my knowledge of programming and staying up-to-date with the latest industry developments. I am driven by my passion for building products that scale, networking, fostering new relationships, and contributing value to the communities I engage with.
+As a Comp Sci grad Web developer, I take great pleasure in expanding my knowledge of programming and staying up-to-date with the latest industry developments. I am driven by my passion for building products that scale, networking, fostering new relationships, and contributing value to the communities I engage with.
 
 - 🌍 I'm based in **Lagos**
 - 🌱 My stacks currently are **HTML**, **CSS**, **JavaScript**, **ReactJS**, **NextJS**, **Tailwind CSS**, **Zustand**, **MongoDB**, **Postgres**, **Python**
