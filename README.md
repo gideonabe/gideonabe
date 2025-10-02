@@ -10,7 +10,7 @@ As a Comp Sci grad front-end developer, I take great pleasure in expanding my kn
 - 🌍 I'm based in **Lagos**
 - 🌱 My stacks currently are **HTML**, **CSS**, **JavaScript**, **ReactJS**, **NextJS**, **Tailwind CSS**, **Zustand**, **MongoDB**, **Postgres**, **Python**
 - 📫 You can reach me at **gideonabe2020@gmail.com**
-- ❤️ I love programming and building modern UIs
+- ❤️ I love programming and building modern UIs & products that scale
 - 💬 Pronouns: **He/Him**
 
 ---
