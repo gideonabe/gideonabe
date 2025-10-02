@@ -62,14 +62,3 @@ As a Comp Sci grad front-end developer, I take great pleasure in expanding my kn
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
----
-
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideonabe&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonabe&layout=compact&theme=tokyonight" />
-</p>
-
