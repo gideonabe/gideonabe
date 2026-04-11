@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gideon</h1>
 <h3 align="center">A Software Engineer</h3>
 
+[![Project Screenshot](https://gideonabe.netlify.app/thumbnail.png)](https://gideonabe.netlify.app)
+
 ---
 
 ### 🧕 About Me
